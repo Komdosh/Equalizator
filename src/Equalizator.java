@@ -81,6 +81,15 @@ public class Equalizator {
                 if(currentIndex < arrayOfNumbers.length)
                     align(result, currentIndex);
             }
+            if(Math.abs(getMaxDeviation(result)-getMinDeviation(result))<Math.abs(getMaxDeviation(second)-getMinDeviation(second))){
+                printTwoDim(result);
+            }
+            else{
+                printTwoDim(second);
+            }
+        }
+        else{
+            printTwoDim(second);
         }
     }
 
