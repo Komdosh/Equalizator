@@ -1,5 +1,7 @@
 # Equalizator
-Algorithm which divide numbers on groups with minimal deviation sum
+#It has not been proved that the algorithm is 100 % correct
+
+Algorithm which divide numbers on groups with minimal deviation sum.
 
 Examples:
 
