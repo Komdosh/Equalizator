@@ -119,7 +119,7 @@ public class Equalizator {
             for (int one : r)
                 if(one!=0)
                     System.out.print(one+" ");
-            System.out.print("= "+getSum(r));
+            System.out.print("sum is "+getSum(r));
             System.out.println();
         }
     }
