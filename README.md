@@ -1,5 +1,5 @@
 # Equalizator
-#It has not been proved that the algorithm is 100 % correct
+#It been proved that the algorithm is not correct in 100%
 
 Algorithm which divide numbers on groups with minimal deviation sum.
 
